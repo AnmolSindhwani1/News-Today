@@ -1,0 +1,18 @@
+.logo-image {
+    width: 60px; /* Adjust the width as needed */
+    height: 40px; /* Maintain aspect ratio */
+    margin-right: 10px;
+  }
+
+   #navbar
+  {
+   position: fixed;
+   width: 100%;
+   z-index: 1000;
+  
+  }
+  .navbar {
+    margin-bottom: 20px; /* Adjust the value as needed */
+   
+  }
+  
